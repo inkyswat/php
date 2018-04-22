@@ -1,0 +1,298 @@
+passwd
+ls
+cat sqlinfo 
+exit
+pwd
+pine
+-la
+la
+ls
+nano sqlinfo 
+vi
+ls
+la
+-l
+ls
+cat sqlinfo 
+vi sqlinfo 
+ls
+cd..
+ls
+cd public_html/
+ls
+dir
+ls
+cd ..
+ls
+cd kullar.keskula/
+ls
+cd public_html/
+ls
+scp
+cd ..
+ls
+cd oliver.roots/
+ls
+cd public_html/
+ls
+mkdir html
+ls
+echo "tere" > tere.html
+cd ..
+ls
+cd ..
+ls
+cd gerli.liiv/
+pine
+pwd
+cd..
+cd ..
+cd vvc/
+ls
+cd public_html/
+ls
+cat index.html 
+cd ..
+cd h
+ls
+cd public_html/
+cd html/
+ls
+cat home.html
+ls ~macbook/
+ls oliver:~macbook/
+ls root@
+ls root@macbook
+quit
+help
+logout
+scp "/Volumes/Macintosh HD/Users/macbook/Music/RDG - Ironman (Bisweed Remix).mp3" 
+logout
+scp “Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*“ oliver.roots@tigu.hk.tlu.ee:/home/oliver.roots/public_html/test1 
+scp ‘Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*’ oliver.roots@tigu.hk.tlu.ee:/home/oliver.roots/public_html/test1 
+logout
+passwd
+sudo scp Oliver:~ macbook$/logout
+pwd
+ls
+cd public_html/
+ls
+mkdir test1
+ls
+scp “Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*“ oliver.roots@tigu.tlu.ee:/home/oliver.roots/public_html/test1
+scp “Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*“ oliver.roots@www.tigu.tlu.ee:/home/oliver.roots/public_html/test1
+ls
+ls tte
+ls test1/
+scp “Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*“ oliver.roots@www.tigu.tlu.ee:/home/oliver.roots/public_html/test1
+scp “Users/macbook/Google Drive/_RIF2017/I semester/veebiprogrammeerimine/kodutöö 2/*“ oliver.roots@tlu.ee:/home/oliver.roots/public_html/test1
+pwd
+cd ..
+cd kaspar.koppelmaa/
+ls
+cd public_html/
+ls
+cd html5/
+ls
+pwd
+cd..
+cd ..
+ls
+cd annemarii.hunt/
+ls
+cd public_html/
+ls
+pine
+ls
+cd public_html/
+ls
+cd tulbi/wp-content/themes/anatomy/
+ls
+ls -l
+ls -a
+ls -la
+vi index.php 
+vi page-hinnakiri.php 
+pwd
+cd public_html/
+vi post.php 
+pwd
+ls
+cd public_html/
+cd tulbi/wp-content/themes/anatomy/
+ls
+vi footer.php 
+cd gfx/
+vi styles_screen.css 
+quit
+exit
+git
+exit
+alias
+ls
+exit
+pwd
+cd public_html/
+ls
+ls -l
+man cp
+cp wp_test cheops1
+cp -r wp_test cheops1
+chmor -r cheops1 777
+chmod -r cheops1 777
+chmod -r 777 cheops1
+man chmod
+chmod -R 777 cheops1
+ls
+quit
+exit
+pwd
+cd public_html/
+ls
+ls cheops1
+ls -l cheops1
+pwd
+cd public_html/
+ls
+rm -r cheops
+ls
+rn cheops1 cheops
+mv cheops1 cheops
+PWD
+pwd
+ls cheops/
+cd wp-content
+ls
+cd cheops/wp-content/themes/
+ls
+rm -r twentyseventeen/
+rm -r twentysixteen/
+ls
+cp twentyfifteen cheops
+cp -r twentyfifteen cheops
+pwd
+ls
+rm -r twentyfifteen/
+ls
+cd cheops/
+ls
+man rm
+pwd
+rm -r *
+ls
+pwd
+cd ~/
+ls
+cd public_html/
+cd tulbi/wp-content/themes/anatomy/
+ls
+cp * ~/public_html/cheops/wp-content/themes/cheops/
+cp -r * ~/public_html/cheops/wp-content/themes/cheops/
+pwd
+ls
+cd public_html/
+cd veebirakendused
+git status
+
+pwd
+cd public_html/
+ls
+pwd
+cd public_html/
+ls
+cd js/
+ls
+cd pallid_liikuma/
+cd ..
+mv pallid_liikuma/ pallid_liikuma_/
+ls
+git clone https://github.com/inkyswat/pallid_liikuma.git
+ls
+mv pallid_liikuma_/* pallid_liikuma/*
+ls
+cd pallid_liikuma_
+ls
+cp * ../pallid_liikuma
+cp * ../pallid_liikuma -r
+cd ..
+ls
+cd pallid_liikuma
+ls
+git status
+git add .
+git commit -m "initial commit, failid paika"
+git push
+git config user.name="inkyswat"
+git config --user.name="inkyswat"
+git config -help
+pwd
+git push
+cd public_html/
+ls
+cd progremise_alused/
+cp www.ikool.ee/prog/* labo/*
+mkdir labo
+cp www.ikool.ee/prog/* labo/*
+wget
+pwd
+cd labo/
+wget http://www.ikool.ee/prog/*
+wget http://www.ikool.ee/prog/
+ls
+cat index.html
+curl
+curl http://www.ikool.ee/prog/*
+curl http://www.ikool.ee/prog/
+ls
+$ wget      --recursive      --no-clobber      --page-requisites      --html-extension      --convert-links      --restrict-file-names=windows      --domains wordpress.org      --no-parent \ http://www.ikool.ee/prog/
+$ wget      --recursive      --no-clobber      --page-requisites      --html-extension      --convert-links      --restrict-file-names=windows      --domains wordpress.org      --no-parent  http://www.ikool.ee/prog/
+$ wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains wordpress.org --no-parent  http://www.ikool.ee/prog/
+wget
+$ wget --recursive--no-clobber--page-requisites--html-extension--convert-links--restrict-file-names=windows--domains wordpress.org--no-parent  http://www.ikool.ee/prog/
+$ wget      --recursive      --no-clobber      --page-requisites      --html-extension      --convert-links      --restrict-file-names=windows      --domains wordpress.org      --no-parent http://www.ikool.ee/prog/
+$ wget      --recursive      --no-clobber      --page-requisites      --html-extension      --convert-links      --restrict-file-names=windows      --domains wordpress.org      --no-parent http://www.ikool.ee/prog/*
+pwd
+ls
+chmod public_html/
+chmod --help
+ls
+cd public_html/
+ls
+cd veebirakendused
+ls
+git status
+git push
+git push --force
+ls
+git add kodutood
+git commit -m "lisatud kodutood"
+git push
+git status
+git add .
+git commit -m "lisatud kodutood kaust"
+git push
+cd ..
+ls
+git clone https://github.com/inkyswat/andmebaasid.git
+git pull
+ls
+cd andmebaasid/
+git pull
+ls
+cat README.md 
+ls
+cd ..
+ls
+cd js
+ls
+git clone https://github.com/inkyswat/JavaScript_1.git
+ls
+git clone https://github.com/inkyswat/JavaScript_2.git
+ls
+pwd
+cd public_html/
+cd veebirakendused/
+ls
+git status
+git log
+exit
